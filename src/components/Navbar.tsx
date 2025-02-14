@@ -113,8 +113,8 @@ export default function Navbar() {
                 to="/auth"
                 className="flex flex-col lg:flex-row items-center space-y-1 lg:space-y-0 lg:space-x-2 text-blue-600"
               >
-                <LogIn size={24} />
-                <span className="text-xs lg:text-sm">Sign In</span>
+                
+                <span className="text-xs lg:text-sm">WelCome to SocialHub</span>
               </Link>
             )}
           </div>
