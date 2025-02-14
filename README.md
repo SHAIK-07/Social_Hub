@@ -1,3 +1,3 @@
 # SocialHub
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/edit/vitejs-vite-1cej7yxc?file=README.md)
+[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/SHAIK-07/Social_Hub)
